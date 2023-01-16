@@ -1,4 +1,4 @@
-### 🥂Saludos. Soy zBlakeK. Soy un estudiante al cual me gusta la infórmatica e ir aprendiendo  poco a poco sobre la programación.
+### 🥂Saludos. Soy AxelanderKZ. Soy un estudiante al cual me gusta la infórmatica e ir aprendiendo  poco a poco sobre la programación.
 Mi único conocimiento es sobre `JavaScript`.
 
 ## 🎩 · Sobre mí
