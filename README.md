@@ -1,4 +1,4 @@
-### 🥂Saludos. Soy Rude me gusta la infórmatica e ir aprendiendo  oco a poco sobre la programación.
+### 🥂Saludos. Soy WisRude me gusta la infórmatica e ir aprendiendo poco a poco sobre la programación.
 Mis conocimiento son `JavaScript`, `Python`, `HTML`, `CSS` y actualmente ando aprendiendo `Rust`.
 
 ## 🎩 · Sobre mí
@@ -7,7 +7,7 @@ Mis conocimiento son `JavaScript`, `Python`, `HTML`, `CSS` y actualmente ando ap
  - 🎸Me encanta la música **Phonk**.
  - 🎮Suelo jugar mucho a **Valorant**, **Minecraft** y **CSGO**
  - ♑Soy Capricornio, aunque no creo en los signos del zódiaco
- - 🔰 Me puedes encontrar en **redes** como `rude_kz` o `rude__kz`
+ - 🔰 Me puedes encontrar en **redes** como `wisrude`
  ## 🔗 · Proyectos
  Suelo abandonar mis proyectos y cambiarlos por otros. 
  ### Trabajando
